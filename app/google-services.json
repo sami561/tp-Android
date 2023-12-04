@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476546449987",
+    "project_id": "melekchtioui-2e55b",
+    "storage_bucket": "melekchtioui-2e55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476546449987:android:302863abb6af44aec08af6",
+        "android_client_info": {
+          "package_name": "com.example.tplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtOCuw5dVTjwm5AzZ7q_zUu1s_DrnizU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
